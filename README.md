@@ -86,7 +86,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-### ⚙🤝 &nbsp;Connect With Me
+### 💻 &nbsp;Connect With Me
 
 <!--icons and links-->
 <a href="https://www.linkedin.com/in/haoyu-zc/" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -99,7 +99,7 @@
 
 ----------------------------------------------------------------
 
-</p>
+<div></div>
 
 Last Edited on: 7/7/2023 [![](https://visitcount.itsvg.in/api?id=haoyu-zc&icon=3&color=6)](https://visitcount.itsvg.in)
 
