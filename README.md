@@ -97,7 +97,9 @@
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-----------------------------------------------------------------------
-<div align="left">
-  Last Edited on: 7/7/2023 &nbsp; [![](https://visitcount.itsvg.in/api?id=haoyu-zc&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
+----------------------------------------------------------------
+
+</p>
+
+Last Edited on: 7/7/2023 [![](https://visitcount.itsvg.in/api?id=haoyu-zc&icon=3&color=6)](https://visitcount.itsvg.in)
+
