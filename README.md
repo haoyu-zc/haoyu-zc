@@ -43,7 +43,7 @@
 ✉️ &nbsp;You can shoot me an email at haoyuzhang@cmu.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.haoyu.dev/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Maze Backtracker" src="https://github.com/mxgmn/MarkovJunior/blob/main/images/MazeBacktracker.gif" align="right"/>
+<!-- <img alt="Maze Backtracker" src="https://github.com/mxgmn/MarkovJunior/blob/main/images/MazeBacktracker.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
