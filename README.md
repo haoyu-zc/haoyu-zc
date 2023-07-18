@@ -16,7 +16,7 @@
        alt="snake" /></a>
 </div>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Haoyu</h2>
+<img alt="Maze Backtracker" src="https://github.com/mxgmn/MarkovJunior/blob/main/images/MazeBacktracker.gif" width='40' align="left"/><h2>Hey there! I'm Haoyu</h2>
 
 <!--Intro start-->
 <!-- - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
