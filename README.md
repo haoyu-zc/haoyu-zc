@@ -96,3 +96,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=haoyu-zc&icon=3&color=6)](https://visitcount.itsvg.in)
 
+<!--Analytics-->
+<script async src="https://analytics.haoyu.dev/script.js" data-website-id="86a27d8c-bd92-48a6-911d-606cc7703cee"></script>
+
