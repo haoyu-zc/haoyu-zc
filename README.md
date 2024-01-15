@@ -36,8 +36,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at Carnegie Mellon University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Programming Design, and Cloud Architecture.\
+🎓 &nbsp;I'm currently studying Computer Systems at Carnegie Mellon University.\
+🌱 &nbsp;I'm on track learning more about Compilers, Databases, Artificial Intelligence, and Cloud Computing.\
 ✍️ &nbsp;In my free time, I pursue Computer Graphics and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for any interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at haoyuzhang@cmu.edu! I'll try to respond as soon as I can.\
