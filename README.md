@@ -69,7 +69,7 @@
 <!--   <img height="180em" src="https://github-readme-stats-haoyu-zc.vercel.app/api/top-langs/?username=haoyu-zc&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoyu-zc&layout=compact&theme=radical)](https://github.com/haoyu-zc)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoyu-zc&layout=compact&theme=radical)](https://github.com/haoyu-zc)
 <!--Stat ends-->
 
 <!-- Connect with me -->
