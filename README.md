@@ -62,7 +62,7 @@
 
 <!--Stat starts-->
 ### ⚙️ &nbsp;GitHub Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-shang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haoyu-zc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/haoyu-zc">
