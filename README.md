@@ -54,4 +54,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/haoyu-zc/)&nbsp;
 [![Website](https://img.shields.io/badge/-haoyu.dev-05122A?style=flat&logo=google-chrome&logoColor=4285F4)](https://www.haoyu.dev)&nbsp;
-[![Email](https://img.shields.io/badge/-haoyuzhang@cmu.edu-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:haoyuzhang@cmu.edu)
+[![Email](https://img.shields.io/badge/-haoyu_z@outlook.com-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:haoyu_z@outlook.com)
