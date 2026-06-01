@@ -9,7 +9,7 @@
 - Focused on compilers (LLVM), GPU computing (CUDA), and database internals
 - Exploring AI/ML and systems programming (WebAssembly, virtual machines)
 - Side interests: game development (Godot) and programming language design
-- Contact: haoyuzhang@cmu.edu / [haoyu.dev](https://www.haoyu.dev)
+- Contact: haoyu_z@outlook.com / [haoyu.dev](https://www.haoyu.dev)
 
 ### Tech Stack
 
