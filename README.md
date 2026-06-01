@@ -49,11 +49,6 @@
   <img src="metrics/general.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/haoyu-zc">
-    <img src="https://streak-stats.demolab.com?user=haoyu-zc&theme=algolia&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ### Connect
 
